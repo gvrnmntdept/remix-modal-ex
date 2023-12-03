@@ -7,6 +7,6 @@ npm install
 npm run start
 ```
 ## Where to look
-Remix hooks allow to integrate with browser history: `useLocation` and `useNavigate`.
+Remix hooks allow integration with browser history: `useLocation` and `useNavigate`.
 
 File: `/app/routes/_index.tsx`
